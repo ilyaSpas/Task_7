@@ -40,6 +40,7 @@ public class Main {
         //        .sorted(new OrderComparator()).limit(3).toList();
         //System.out.println(threeMostExpensiveOrder);
 
+        //Выведите результат: список трех самых дорогих продуктов и их общая стоимость.
         //Map<List<Order>, Double> map = getThreeMostExpensiveOrderAndSum(orders);
         //System.out.println(map);
     }
